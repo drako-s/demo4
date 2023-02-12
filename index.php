@@ -160,7 +160,7 @@ $services = Db::queryAll('SELECT * FROM `services` WHERE `order_id` = ?', array(
 <div class="hero">
   <div class="container overflow-hidden py-5">
     <div class="d-flex justify-content-center align-items-center">
-      <div class="col-lg-8 d-flex flex-column align-items-center justify-content-center text-center text-lg-start gap-3">
+      <div class="col-lg-8 d-flex flex-column align-items-center justify-content-center text-center gap-3">
         <img src="https://www.stanislav-drako.cz/public/img/smiley.svg" class="img-fluid" alt="People">
         <div class="shadows"></div>
           <h1>
