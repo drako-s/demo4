@@ -230,7 +230,7 @@ $services = Db::queryAll('SELECT * FROM `services` WHERE `order_id` = ?', array(
                 <!-- IMAGE -->
         <div class="d-flex justify-content-center align-items-center h-100">
           <div class="rounded-4 d-flex align-items-center justify-content-center w-100">
-            <img src="https://www.stanislav-drako.cz/public/img/thumbs-up.svg" alt="obrázek o nás">
+            <img src="https://www.stanislav-drako.cz/public/img/thumbs-up.webp" alt="obrázek o nás">
           </div>
         </div>
       </div>
